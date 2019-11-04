@@ -12,7 +12,7 @@ permalink: "/contact/"
     - *Should the inviter be down, please email the address above.*
 
 
-Reach out to any of these people that are willing to be publicly quoted or speak on InnerSource. They are ordered by surname.
+Reach out to any of these people who are willing to be publicly quoted or speak on InnerSource. They are ordered by surname.
 
 Want to get on this list?
 Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourcecommons.org/edit/master/pages/contact.md).
@@ -27,6 +27,7 @@ Add yourself via [pull request](https://github.com/InnerSourceCommons/innersourc
 | Johannes Nicolai | [GitHub](https://github.com) | Principal Solutions Engineer | Germany | Y | Y |
 | Russ Rutledge | [Nike](https://www.nike.com) | Director of Community and Inner Source | United States | Y | Y |
 | Klaas-Jan Stol | [Lero](https://www.lero.ie) | Lecturer | Ireland | Y | Y |
+| Louis Suárez-Potts | [Microsoft](https://www.microsoft.com/) | OSS Canada  | Y | Y |
 | Johannes Tigges | [7Learnings](https://www.7learnings.com/) | Principal Engineer | Germany | - | Y |
 | Ben Van't Ende | [Age of Peers](https://ageofpeers.com/) | Collaboration Strategist | Netherlands | - | Y |
 | Kristof Van Tomme | [Pronovix](https://pronovix.com/) | CEO | Belgium | Y | Y |
